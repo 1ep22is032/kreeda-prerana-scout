@@ -151,6 +151,18 @@ The following supplied screens were added as Android drawable resources:
 - School Leaderboard
 - Coach Insights
 - Export Report Sharing
+## Attachments
+<img width="720" height="1600" alt="WhatsApp Image 2026-05-13 at 10 25 52 PM" src="https://github.com/user-attachments/assets/4a34db79-7f40-4117-a95a-5b19346f3c31" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-05-13 at 10 25 52 PM (1)" src="https://github.com/user-attachments/assets/44b1b114-0774-438f-b6af-08a90c1afda2" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-05-13 at 10 25 52 PM (2)" src="https://github.com/user-attachments/assets/12abe403-cdbe-4392-9f4f-5eee78316073" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-05-13 at 10 25 52 PM (3)" src="https://github.com/user-attachments/assets/07074c75-0876-4b17-93e6-00072517fb67" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-05-13 at 10 25 53 PM" src="https://github.com/user-attachments/assets/ba4063f1-c365-4065-8180-d08b67414823" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-05-13 at 10 25 53 PM (1)" src="https://github.com/user-attachments/assets/9e0f3fab-e31e-4cda-829a-4fcdb57b3891" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-05-13 at 10 25 53 PM (2)" src="https://github.com/user-attachments/assets/884d39cb-10f9-43ce-934b-e070735e24e7" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-05-13 at 10 25 54 PM" src="https://github.com/user-attachments/assets/6c9b6915-8168-4c05-be02-1c1abffa6933" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-05-13 at 10 25 54 PM (1)" src="https://github.com/user-attachments/assets/e6505525-a061-4ee7-be9c-a6ac9a3575b5" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-05-13 at 10 25 54 PM (2)" src="https://github.com/user-attachments/assets/8602b75f-7288-4b52-a504-03f6089bd898" />
+
 
 Source design archive:
 
