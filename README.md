@@ -1,5 +1,3 @@
-# kreeda-prerana-scout
-Kreeda-Prerana Scout is a grassroots sports talent tracking Android app built for physical education (PE) teachers in rural and semi-urban schools. It acts as a "Digital Scout" — helping teachers discover athletically gifted students who would otherwise go unnoticed.
 # Kreeda-Prerana Scout
 
 Kreeda-Prerana Scout is a Kotlin-based Android application for grassroots sports talent tracking. It is designed for physical education teachers, school coaches, and local scouts who need a simple offline-first tool to record student athletes, log trials, review performance signals, and share scouting reports.
